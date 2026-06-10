@@ -10,7 +10,7 @@
 ### Pull Request
 * **Link do pull request:** https://github.com/Teshaar/atividade-git-zero/pull/1
 * **Print do pull request:** 
-
+<img width="1481" height="918" alt="Pull request " src="https://github.com/user-attachments/assets/b16ae374-c45c-4384-be59-6999b89bbbcf" />
 
 ### Descrição das alterações feitas
 Conforme documentado no Pull Request:
@@ -20,7 +20,7 @@ Conforme documentado no Pull Request:
 
 ### Evidências de teste, execução ou validação
 O código foi estruturado e validado corretamente na linguagem Python, contendo as declarações de variáveis e a operação de soma.
-*(Insira a imagem do código script.py preenchido aqui)*
+<img width="528" height="358" alt="Code" src="https://github.com/user-attachments/assets/4ff8477a-8175-4143-bd10-fae4a6624e03" />
 
 ### Checklist de code review
 - [x] O código segue padrões adequados?
